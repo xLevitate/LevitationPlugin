@@ -1,0 +1,10 @@
+name: Levitation
+version: '${project.version}'
+main: me.levitate.levitation.Levitation
+api-version: 1.19
+authors: [ Levitate ]
+description: A plugin that allows players to levitate by using a command.
+commands:
+    levitate:
+        description: Gives players the Levitation effect.
+        usage: /levitate
